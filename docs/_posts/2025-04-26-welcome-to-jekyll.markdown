@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Solutionheap"
+title: "Account & Profile"
 date: 2025-04-26 00:41:19 +0200
 categories: jekyll update
 ---
