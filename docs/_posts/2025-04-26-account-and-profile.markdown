@@ -2,7 +2,7 @@
 layout: post
 title: "Account & Profile"
 date: 2025-04-26 00:41:19 +0200
-categories: jekyll update
+categories: post update
 ---
 
 Find out how to adjust your profile settings.
