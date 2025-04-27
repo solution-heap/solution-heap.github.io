@@ -7,7 +7,7 @@ categories: jekyll update
 
 Find out how to adjust your profile settings.
 
-Other stuff will be here.
+Other stuff will be here. You hear?
 
 Jekyll also offers powerful support for code snippets:
 
