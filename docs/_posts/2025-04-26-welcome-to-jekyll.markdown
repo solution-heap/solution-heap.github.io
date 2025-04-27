@@ -7,6 +7,8 @@ categories: jekyll update
 
 Find out how to adjust your profile settings.
 
+Other stuff will be here.
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
