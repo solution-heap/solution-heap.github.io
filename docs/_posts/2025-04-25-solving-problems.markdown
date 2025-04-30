@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Solving Problems on Solutionheap"
+title: "Solving Issues on Solutionheap"
 date: 2025-04-25 00:41:19 +0200
 categories: post update
 ---
-Get questions answered on how to use the app.
+Get help on how to address issues with the app.
 
 Other stuff will be here.
