@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About Solutionheap"
+title: "Get started"
 date: 2025-04-27 00:41:19 +0200
 categories: post update
 ---
 
-Get to know us and the company.
+Get to know us and what we need from you to able to use the app.
 
 More will be here.
