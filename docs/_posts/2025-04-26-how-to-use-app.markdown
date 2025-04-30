@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Account & Profile"
+title: "How to use Solution heap"
 date: 2025-04-26 00:41:19 +0200
 categories: post update
 ---
 
-Find out how to adjust your profile settings.
+Get questions answered on how to use the app.
 
 Other stuff will be here. You hear?
 
