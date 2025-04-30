@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use Solution heap"
+title: "How to use Solutionheap"
 date: 2025-04-26 00:41:19 +0200
 categories: post update
 ---
