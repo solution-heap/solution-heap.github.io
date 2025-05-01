@@ -39,6 +39,10 @@ collections_dir: misc
 collections:
   birds:
     output:true
+    permalink:/:collection/:name
+  posts:
+    output:true
+    permalink:/:collection/:name
 
 #plugins:
 #  - jekyll-feed
