@@ -18,10 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#collections
-collections:
-  birds:
-    output:true
+
 
 title: Solutionheap
 email: solutionheapteam@gmail.com
@@ -36,6 +33,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+
+#collections
+collections_dir: animals
+collections:
+  birds:
+    output:true
+    
 #plugins:
 #  - jekyll-feed
 # Exclude from processing.
