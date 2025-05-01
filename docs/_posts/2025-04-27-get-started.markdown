@@ -7,9 +7,9 @@ categories: post update
 
 Get to know us and what we need from you to able to use the app.
 
-{% for collection in site.collections %}
-    <h2>{{collection.label}}</h2>
-{% endfor %}
+<div>
+    <h2>{{site.collection.size}}</h2>
+</div>
 
     
 
