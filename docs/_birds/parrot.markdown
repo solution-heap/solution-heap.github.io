@@ -1,5 +1,5 @@
 ---
 layout: default 
-title: Gallery 
+title: Parrot 
 ---
 Sup
