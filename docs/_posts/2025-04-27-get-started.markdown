@@ -8,7 +8,7 @@ categories: post update
 Get to know us and what we need from you to able to use the app.
 
 <div>
-    <h2>{{site.posts.size}}</h2>
+    <h2>Yow</h2>
 </div>
 
     
