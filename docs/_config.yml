@@ -29,12 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username: jekyll
 
-#collections
-collections:
-  birds:
-    output:true
-      #permalink: /my-birds/:name/
-
 # Build settings
 theme: minima
 #plugins:
@@ -58,3 +52,8 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#collections
+collections:
+  birds:
+    output:true
+      #permalink: /my-birds/:name/
