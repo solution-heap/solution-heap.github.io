@@ -46,4 +46,18 @@ border-bottom: 1px solid #eee;
 }
 </style>
 
-<p>Stuff here<p>
+<div class="card-grid">
+  {% for post in site.posts %}
+  <div class="card">
+    <a href="{{post.url|relative_url}}">
+      {% if post.image %}
+      <img src="{{post.image|relative_url}}" alt="{{post.title}}" />
+      {% endif %}
+      <h3>{{post.title}}</h3>
+      {% if post.excerpt %}
+      <p>{{post.excerpt}}</p>
+      {% endif %}
+    </a>
+  </div>
+  {% endfor %}
+</div>

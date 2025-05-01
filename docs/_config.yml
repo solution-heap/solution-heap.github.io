@@ -42,7 +42,7 @@ collections:
     permalink:/:collection/:name
   posts:
     output:true
-    permalink:/:collection/:name
+    #permalink:/:collection/:name
 
 #plugins:
 #  - jekyll-feed
