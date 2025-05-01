@@ -47,7 +47,7 @@ border-bottom: 1px solid #eee;
 </style>
 
 <div class="card-grid">
-  {% for post in site.posts %}
+  {% for post in site.birds %}
   <div class="card">
     <a href="{{post.url|relative_url}}">
       {% if post.image %}
