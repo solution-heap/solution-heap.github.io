@@ -35,11 +35,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 #collections
-collections_dir: misc
 collections:
   birds:
     output:true
-    permalink:/:collection/:name
+    
 
 #plugins:
 #  - jekyll-feed
