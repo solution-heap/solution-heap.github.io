@@ -33,7 +33,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
   collections:
     birds:
       output:true
-      permalink: /birds/:path/
+      permalink: /my-birds/:name/
 
 # Build settings
 theme: minima
