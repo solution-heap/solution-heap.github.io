@@ -47,17 +47,12 @@ border-bottom: 1px solid #eee;
 </style>
 
 <div class="card-grid">
-  {% for post in site.birds %}
-  <div class="card">
-    <a href="{{post.url|relative_url}}">
-      {% if post.image %}
-      <img src="{{post.image|relative_url}}" alt="{{post.title}}" />
-      {% endif %}
-      <h3>{{post.title}}</h3>
-      {% if post.excerpt %}
-      <p>{{post.excerpt}}</p>
-      {% endif %}
-    </a>
-  </div>
+  {% for collection in site.collections %}
+    {% if collection.label != 'posts' %}
+        <h2>{{ collection.label }}</h2>
+        {% for item in site[collection.label] %}
+            <br><a href="{{ item.url }}">{{ item.title }}</a>
+        {% endfor %}
+    {% endif %}
   {% endfor %}
 </div>
