@@ -8,7 +8,9 @@ categories: post update
 Get to know us and what we need from you to able to use the app.
 
 <div>
-    <p>Testing</p>
+    {% for bird in site.birds %}
+        <p>Testing</p>
+    {% endfor %}
 </div>
     
 
