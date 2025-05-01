@@ -30,9 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username: jekyll
 
 #collections
-  collections:
-    birds:
-      output:true
+collections:
+  birds:
+    output:true
       #permalink: /my-birds/:name/
 
 # Build settings
