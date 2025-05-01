@@ -35,11 +35,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 #collections
-collections_dir: animals
+collections_dir: misc
 collections:
   birds:
     output:true
-    
+
 #plugins:
 #  - jekyll-feed
 # Exclude from processing.
