@@ -1,5 +1,5 @@
 ---
 layout: default 
-title: Parrot 
+title: "Parrot" 
 ---
 Sup
