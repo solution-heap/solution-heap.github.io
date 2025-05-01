@@ -9,7 +9,9 @@ Get to know us and what we need from you to able to use the app.
 
 <div>
     {% for bird in site.birds %}
-        <p>Testing...</p>
+        <a href="{{bird.url}}">
+        {{bird.title}}
+        </a>
     {% endfor %}
 </div>
     
