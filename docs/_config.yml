@@ -31,7 +31,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #collections
   collections:
-    birds
+    birds:
+      output:true
+      
 
 # Build settings
 theme: minima
