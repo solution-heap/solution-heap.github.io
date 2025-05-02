@@ -5,6 +5,8 @@ date: 2025-04-27 00:41:19 +0200
 categories: post update
 ---
 
+Get to know us and what we need from you to able to use the app.
+
 <style>
 .card{
     background-color: #f9f9f9;
@@ -24,13 +26,11 @@ categories: post update
 }
 </style>
 
-Get to know us and what we need from you to able to use the app.
-
 <div class="card">
   {% for post in site.birds %}
   <div >
     <a href="{{post.url|relative_url}}">
-      <h3>{{post.title}}</h3>
+      <p>{{post.title}}</p>
     </a>
   </div>
   {% endfor %}
