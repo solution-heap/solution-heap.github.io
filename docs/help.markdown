@@ -56,7 +56,7 @@ border-bottom: 1px solid #eee;
       {% if post.image %}
       <img src="{{post.image|relative_url}}" alt="{{post.description}}" />
       {% endif %}
-      <h3>{{post.decsription}}</h3>
+      <h3>{{post.description}}</h3>
       {% if post.excerpt %}
       <p>{{post.excerpt}}</p>
       {% endif %}
