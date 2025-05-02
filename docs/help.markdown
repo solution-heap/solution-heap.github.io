@@ -54,9 +54,9 @@ border-bottom: 1px solid #eee;
   <div class="card">
     <a href="{{post.url|relative_url}}">
       {% if post.image %}
-      <img src="{{post.image|relative_url}}" alt="{{post.description}}" />
+      <img src="{{post.image|relative_url}}" alt="{{post.title}}" />
       {% endif %}
-      <h3>{{post.description}}</h3>
+      <h3>{{post.title}}</h3>
       {% if post.excerpt %}
       <p>{{post.excerpt}}</p>
       {% endif %}
