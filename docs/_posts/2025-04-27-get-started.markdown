@@ -28,7 +28,7 @@ Get to know us and what we need from you to able to use the app.
 </style>
 
 <div class="card">
-  {% for post in site.birds %}
+  {% for post in site.get_started %}
   <div>
     <a href="{{post.url|relative_url}}">
       <p>{{post.title}}</p>
