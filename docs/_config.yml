@@ -34,7 +34,7 @@ theme: minima
 
 collections:
   birds:
-    parrot: true
+    output: true
     
 
 #plugins:
