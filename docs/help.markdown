@@ -47,6 +47,7 @@ border-bottom: 1px solid #eee;
 </style>
 
 <p>{{site.collection.size}}</p>
+<p>hello</p>
 
 <div class="card-grid">
   {% for post in site.birds %}
