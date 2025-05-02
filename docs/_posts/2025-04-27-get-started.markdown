@@ -21,14 +21,15 @@ Get to know us and what we need from you to able to use the app.
     margin-bottom: 10px;
 }
 .card p {
-    margin-bottom: 0;
-    color: #555;
+    margin: 10px;
+    padding: 20px;
+    
 }
 </style>
 
 <div class="card">
   {% for post in site.birds %}
-  <div >
+  <div>
     <a href="{{post.url|relative_url}}">
       <p>{{post.title}}</p>
     </a>
