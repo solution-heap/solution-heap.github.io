@@ -21,7 +21,7 @@ Get to know us and what we need from you to able to use the app.
     margin-bottom: 10px;
 }
 .card p {
-    margin: 10px;
+    margin: 5px;
     padding: 20px;
     
 }
