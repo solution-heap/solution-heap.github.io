@@ -49,13 +49,13 @@ border-bottom: 1px solid #eee;
 <p>{{site.collection.size}</p>
 
 <div class="card-grid">
-  {% for post in site.posts %}
+  {% for post in site.birds %}
   <div class="card">
     <a href="{{post.url|relative_url}}">
       {% if post.image %}
-      <img src="{{post.image|relative_url}}" alt="{{post.title}}" />
+      <img src="{{post.image|relative_url}}" alt="{{post.description}}" />
       {% endif %}
-      <h3>{{post.title}}</h3>
+      <h3>{{post.decsription}}</h3>
       {% if post.excerpt %}
       <p>{{post.excerpt}}</p>
       {% endif %}
