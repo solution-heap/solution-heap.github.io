@@ -33,7 +33,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 collections:
-  - birds
+  - birds:
+      output:true
     
 
 #plugins:
