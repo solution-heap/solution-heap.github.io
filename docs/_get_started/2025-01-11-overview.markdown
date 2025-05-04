@@ -4,4 +4,14 @@ title: Overview of Solutionheap
 date: 2025-01-11 00:41:19 +0200
 categories: get started update
 ---
-Hello there
+__What is Solutionheap?__
+
+Solutionheap helps students study better for exams with topic-focused questions from real past papers.
+Each question provides a hint that can be saved to help with information retention. The solutions are provided with a selection of different methods that are explained step-by-step in a way that's simple and easy to follow.
+
+__How much does Solutionheap cost?__
+
+We want every student to have access to our educational resources, that's why we've made Solutionheap free! For the upkeep of our services, we must have advertising and we've taken considerable steps to minimise distraction from learning.
+
+
+
